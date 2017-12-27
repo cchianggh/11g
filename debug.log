@@ -1,0 +1,4 @@
+[1222/121721.992:ERROR:process_info.cc(632)] range at 0xadf2272200000000, size 0x280 fully unreadable
+[1222/121721.992:ERROR:process_info.cc(632)] range at 0xadf2274200000000, size 0x280 fully unreadable
+[1222/121721.993:ERROR:process_info.cc(632)] range at 0x0, size 0x280 fully unreadable
+[1222/121722.496:ERROR:http_transport_win.cc(268)] WinHttpSendRequest: 無法解析伺服器名稱或位址  (0x2ee7)
